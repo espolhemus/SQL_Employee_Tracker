@@ -26,7 +26,8 @@ This challenge required that we build a command-line application from scratch to
 
 ## Usage
   The application is deployed at the following location:
-  - This application is not being deployed; a video walkthrough can be found at:
+  
+  This application is not being deployed; a video walkthrough can be found at:
   - https://drive.google.com/file/d/131iNYz9215_ar_MYeG9rZuoBaYJqXlI6/view
 
   The location of the GitHub repository is:
