@@ -5,8 +5,8 @@ const connection = mysql2.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'new_password',
+    database: 'employees_db',
     multipleStatements: true
-    // database: 'employees_db'
 });
 
 connection.connect(function(err) {
